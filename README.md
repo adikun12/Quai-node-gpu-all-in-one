@@ -201,18 +201,3 @@ Reset and clear
 
 
 Download and Sync from Snapshot
-
-Was this page helpful?
-
-
-Yes
-
-No
-Suggest edits
-Raise issue
-Enable Node Monitoring
-x
-github
-linkedin
-Powered by Mintlify
-Run A Node - Quai Network Docs
